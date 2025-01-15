@@ -1,0 +1,50 @@
+.main{
+    
+display: flex;
+align-items: center;
+
+
+
+img{
+    width: 60%;
+    padding-left: 50px;
+
+
+}
+
+
+
+}
+
+
+
+section{
+   
+    width: 40%;
+    padding: 60px;
+    display: flex;
+    flex-direction: column;
+    text-align: end;
+    color: #3E3970;
+    
+    h3{
+        font-size: 36px;
+        font-weight: 100;
+    
+    }
+
+    h2{
+
+        font-size: 50px;
+        font-weight:900;
+    }
+
+    P{ 
+     
+        font-size: 28px;
+        word-wrap: break-word;
+    }
+   
+}
+
+
